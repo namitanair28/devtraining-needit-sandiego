@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite">
+    <sys_atf_test_suite action="DELETE">
+        <active>true</active>
+        <description>Testing on the NeedIt When needed field date Business Rule to make sure it works in three cases: past date, today, and future.</description>
+        <input_filter/>
+        <name>What needed Field NeedIt App</name>
+        <parent display_value="NeedIt App">2e757c342f101110b7b92e5df699b61a</parent>
+        <sys_class_name>sys_atf_test_suite</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-22 14:00:34</sys_created_on>
+        <sys_id>68a5bcf02f101110b7b92e5df699b6c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>What needed Field NeedIt App</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_suite_68a5bcf02f101110b7b92e5df699b6c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-22 14:00:34</sys_updated_on>
+    </sys_atf_test_suite>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>452bc59fdbead7004c1ff70fbf961917</instance_id>
+        <instance_name>dev60986</instance_name>
+        <name>sys_atf_test_suite_68a5bcf02f101110b7b92e5df699b6c9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite"><sys_atf_test_suite action="INSERT_OR_UPDATE"><active>true</active><description>Testing on the NeedIt When needed field date Business Rule to make sure it works in three cases: past date, today, and future.</description><input_filter/><name>What needed Field NeedIt App</name><parent display_value="NeedIt App">2e757c342f101110b7b92e5df699b61a</parent><sys_class_name>sys_atf_test_suite</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-22 14:00:34</sys_created_on><sys_id>68a5bcf02f101110b7b92e5df699b6c9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>What needed Field NeedIt App</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_test_suite_68a5bcf02f101110b7b92e5df699b6c9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-22 14:00:34</sys_updated_on></sys_atf_test_suite></record_update>]]></payload>
+        <payload_hash>-1257766222</payload_hash>
+        <record_name>What needed Field NeedIt App</record_name>
+        <reverted_from/>
+        <source>8ebade5c2f841110b7b92e5df699b692</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-22 14:00:35</sys_created_on>
+        <sys_id>e5d5fc342f101110b7b92e5df699b6a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1818bb6ffea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-22 14:00:35</sys_updated_on>
+        <type>Test Suite</type>
+        <update_guid>21d5fc345c10111004b70a08b7f7c5a9</update_guid>
+        <update_guid_history>21d5fc345c10111004b70a08b7f7c5a9:-1257766222</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-22 14:08:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test_suite">sys_atf_test_suite</sys_db_object>
+        <sys_id>00e93e2203fd42c8828f0cf404b3bf24</sys_id>
+        <sys_metadata>68a5bcf02f101110b7b92e5df699b6c9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>What needed Field NeedIt App</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_test_suite_68a5bcf02f101110b7b92e5df699b6c9</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_suite_68a5bcf02f101110b7b92e5df699b6c9">e5d5fc342f101110b7b92e5df699b6a9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-22 14:08:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
